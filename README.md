@@ -2,11 +2,13 @@
 
 ## Myndband
 
+[![Myndband](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)
+
 ---
 
 ## Lýsing
 
-Róbotinn fer upp og niður, opnar og lokar kjálka, átti að öskra (virkaði ekki af einhverri ástæðu) og augun blikka
+Róbotinn fer upp og niður, opnar og lokar kjálka, átti að öskra (virkaði ekki af einhverri ástæðu) og augun blikka. Hann skynjar fjarlægð en virkar eins og rofi af einhverri ástæðu.
 
 ---
 
